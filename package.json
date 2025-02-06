@@ -1,0 +1,21 @@
+{
+  "name": "tiny-grid",
+  "version": "1.-.0",
+  "description": "This is a lightweight CSS grid framework",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./scss/tiny-grid.scss ./css/tiny-grid.min.css --style compressed --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/tiny-grid.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/tiny-grid/issues"
+  },
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
