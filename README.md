@@ -64,6 +64,7 @@ To add a offset to a column, use the `col-` class followed by breakpoint name, `
 ### No-breakpoint depended columns
 To add a column that is not depended by a breakpoint, just ignore the breakpoint name in the class construciton.
 
+
 ```html
 <div class="col-6"></div>
 ```
